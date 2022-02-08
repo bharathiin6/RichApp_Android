@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358964252084",
+    "project_id": "richappandroid",
+    "storage_bucket": "richappandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358964252084:android:9cb77a7c413a19774e76e1",
+        "android_client_info": {
+          "package_name": "com.richmarket.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358964252084-8g98dlipetsqo17cr3si5gi6qo41usf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU0O3r6jq83tFU2qSTgCopAebqk-i5hqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358964252084-8g98dlipetsqo17cr3si5gi6qo41usf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
